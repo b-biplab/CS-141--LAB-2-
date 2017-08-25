@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Hello, USER!" << endl;
     cout << endl;
 
     int angle1,angle2,angle3 ;
