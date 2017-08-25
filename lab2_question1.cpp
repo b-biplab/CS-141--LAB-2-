@@ -4,8 +4,9 @@ using namespace std;
 
 int main()
 {
-    float length ;
+    
     cout << "hello, user" << endl;
+    float length ;
     cout << "enter length in centimeter" << endl;
     cin >> length ;
     cout << endl;
